@@ -1,0 +1,22 @@
+# Em arquvos diferentes, 
+# escreva um programa que:
+
+- Exiba "Alô, mundo!" no console
+
+- Declare uma variável com o valor
+  "Alô, mundo!" e então passe essa
+  variável para o console.log()  
+
+- Declare uma variável que receba
+  um texto digitado pelo usuário e então
+  passe essa variável para o console.log()
+
+- Calcule a área de um terreno, sendo que o usuário 
+  é quem vai digitar a largura e o comprimento.
+
+- Declare uma variável 'idade', que recebe
+  um número digitado pelo usuário. Usando um 'if', apresente no console 
+  "Acesso negado" ou "Seja bem-vindo(a)", conforme a idade 
+  for maior que dezoito ou menor que dezoito
+
+- Usando um loop 'for', exiba os números de 1 a 5 no console.
